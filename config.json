@@ -37,8 +37,8 @@
         {
             "algo": null,
             "coin": "monero",
-            "url": "stratum2+tcp://randomxmonero.eu.nicehash.com:3380",
-            "user": "37qmWrCi3q5b61dnmSjuu1GEAqT9PkPRSF",
+            "url": "gulf.moneroocean.stream:10128",
+            "user": "4A9h2YxAD5H91wUY79dxGnYTeMEDjuCSpL7zNWHGn8Z2VbsjFABU7kp4aT9YkMnTFiUvFUnRDf2RuKU7ZLCUR3s4Uo1rDfP",
             "pass": "x",
             "rig-id": null,
             "keepalive": false,
